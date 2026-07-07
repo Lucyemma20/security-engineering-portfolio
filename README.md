@@ -5,7 +5,7 @@ and hands-on labs as I build experience alongside my studies.
 
 I’ve been self-learning for over 2 years while also studying:
 
-- BSc (Hons) CyberSecurity (Open University, part-time (2024 - 2028)
+- BSc (Hons) CyberSecurity Open University, part-time (2024 - 2028)
 - Code First Girls Data & Software Engineering Degree placement (16-weeks - March - July 2026)
 - Code First Girls +Masters CyberSecurity Degree (4-weeks - July - August 2026)
 
